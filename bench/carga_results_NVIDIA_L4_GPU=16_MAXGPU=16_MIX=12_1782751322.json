@@ -1,0 +1,453 @@
+[
+  {
+    "concurrency": 1,
+    "throughput": 2.6,
+    "avg_latency": 0.38307880994873883,
+    "p95_latency": 0.46137951599939697,
+    "error_rate": 0.0,
+    "total_requests": 78,
+    "success_count": 78,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 4.0,
+        "cpu_utilization_percent": 22.1,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751413.167779
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751428.29398
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 1.7,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751443.4205904
+      }
+    ]
+  },
+  {
+    "concurrency": 6,
+    "throughput": 11.366666666666667,
+    "avg_latency": 0.5249660828533965,
+    "p95_latency": 0.6665419310002108,
+    "error_rate": 0.0,
+    "total_requests": 341,
+    "success_count": 341,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 18.0,
+        "cpu_utilization_percent": 47.1,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 5,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751473.5590057
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751488.6857922
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 8.3,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751503.811872
+      }
+    ]
+  },
+  {
+    "concurrency": 11,
+    "throughput": 12.1,
+    "avg_latency": 0.8959395575674943,
+    "p95_latency": 1.145372199999656,
+    "error_rate": 0.0,
+    "total_requests": 363,
+    "success_count": 363,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 17.0,
+        "cpu_utilization_percent": 79.1,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 14,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751533.9539309
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 3.3,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751549.0801387
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751564.2070334
+      }
+    ]
+  },
+  {
+    "concurrency": 16,
+    "throughput": 11.833333333333334,
+    "avg_latency": 1.3197354851690122,
+    "p95_latency": 1.7337171399994986,
+    "error_rate": 0.0,
+    "total_requests": 355,
+    "success_count": 355,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 16.0,
+        "cpu_utilization_percent": 78.6,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 15,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751594.3495498
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751609.476181
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 8.3,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751624.6028457
+      }
+    ]
+  },
+  {
+    "concurrency": 21,
+    "throughput": 11.766666666666667,
+    "avg_latency": 1.7393184080255228,
+    "p95_latency": 2.190953139999692,
+    "error_rate": 0.0,
+    "total_requests": 353,
+    "success_count": 353,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 20.0,
+        "cpu_utilization_percent": 76.9,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 16,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751654.7451098
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751669.8725467
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751684.998835
+      }
+    ]
+  },
+  {
+    "concurrency": 26,
+    "throughput": 11.666666666666666,
+    "avg_latency": 2.138925402505746,
+    "p95_latency": 2.675417940999978,
+    "error_rate": 0.0,
+    "total_requests": 350,
+    "success_count": 350,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 15.0,
+        "cpu_utilization_percent": 77.2,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 15,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751715.1441314
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 2.5,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751730.270905
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751745.397165
+      }
+    ]
+  },
+  {
+    "concurrency": 31,
+    "throughput": 11.566666666666666,
+    "avg_latency": 2.5523626833457893,
+    "p95_latency": 3.080469491000258,
+    "error_rate": 0.0,
+    "total_requests": 347,
+    "success_count": 347,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 15.0,
+        "cpu_utilization_percent": 79.1,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 14,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751775.5451837
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 9.2,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751790.6726844
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 3.3,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751805.79921
+      }
+    ]
+  },
+  {
+    "concurrency": 36,
+    "throughput": 11.933333333333334,
+    "avg_latency": 2.8891825332877143,
+    "p95_latency": 3.4739432059996034,
+    "error_rate": 0.0,
+    "total_requests": 358,
+    "success_count": 358,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 19.0,
+        "cpu_utilization_percent": 77.8,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 14,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751835.94602
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751851.073435
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751866.1999002
+      }
+    ]
+  },
+  {
+    "concurrency": 41,
+    "throughput": 11.9,
+    "avg_latency": 3.24368868359943,
+    "p95_latency": 3.799674330000016,
+    "error_rate": 0.0,
+    "total_requests": 357,
+    "success_count": 357,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 17.0,
+        "cpu_utilization_percent": 75.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 16,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751896.3483307
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 9.2,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751911.4762814
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751926.6028984
+      }
+    ]
+  },
+  {
+    "concurrency": 46,
+    "throughput": 11.6,
+    "avg_latency": 3.7063963538563525,
+    "p95_latency": 4.4217612339998595,
+    "error_rate": 0.0,
+    "total_requests": 348,
+    "success_count": 348,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 17.0,
+        "cpu_utilization_percent": 79.6,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 14,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751956.7540855
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751971.8816452
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782751987.0076675
+      }
+    ]
+  },
+  {
+    "concurrency": 51,
+    "throughput": 11.8,
+    "avg_latency": 4.0303243126101505,
+    "p95_latency": 4.752810267999848,
+    "error_rate": 0.0,
+    "total_requests": 354,
+    "success_count": 354,
+    "resources_snapshots": [
+      {
+        "gpu_utilization_percent": 20.0,
+        "cpu_utilization_percent": 80.5,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 13,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782752017.1555712
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 0.0,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782752032.2829592
+      },
+      {
+        "gpu_utilization_percent": 0.0,
+        "cpu_utilization_percent": 9.1,
+        "cpu_cores_available": 12,
+        "active_gpu_jobs": 0,
+        "max_gpu_jobs": 16,
+        "gpu_workers": 16,
+        "mix_workers": 12,
+        "timestamp": 1782752047.4095368
+      }
+    ]
+  }
+]

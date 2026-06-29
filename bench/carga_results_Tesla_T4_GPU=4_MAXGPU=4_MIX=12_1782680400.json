@@ -1,0 +1,101 @@
+[
+  {
+    "concurrency": 1,
+    "throughput": 3.3333333333333335,
+    "avg_latency": 0.29833032741000354,
+    "p95_latency": 0.5739998299995932,
+    "error_rate": 0.0,
+    "total_requests": 100,
+    "success_count": 100
+  },
+  {
+    "concurrency": 6,
+    "throughput": 3.6333333333333333,
+    "avg_latency": 1.619613281541097,
+    "p95_latency": 2.7512593929986906,
+    "error_rate": 0.0,
+    "total_requests": 109,
+    "success_count": 109
+  },
+  {
+    "concurrency": 11,
+    "throughput": 3.4,
+    "avg_latency": 3.115262992637255,
+    "p95_latency": 5.265725694000139,
+    "error_rate": 0.0,
+    "total_requests": 102,
+    "success_count": 102
+  },
+  {
+    "concurrency": 16,
+    "throughput": 3.2,
+    "avg_latency": 4.693968204604232,
+    "p95_latency": 7.474748939999699,
+    "error_rate": 0.0,
+    "total_requests": 96,
+    "success_count": 96
+  },
+  {
+    "concurrency": 21,
+    "throughput": 3.066666666666667,
+    "avg_latency": 6.273836658402062,
+    "p95_latency": 10.415332791000765,
+    "error_rate": 0.0,
+    "total_requests": 92,
+    "success_count": 92
+  },
+  {
+    "concurrency": 26,
+    "throughput": 2.8666666666666667,
+    "avg_latency": 8.119796915314213,
+    "p95_latency": 12.407709603001422,
+    "error_rate": 0.0,
+    "total_requests": 86,
+    "success_count": 86
+  },
+  {
+    "concurrency": 31,
+    "throughput": 2.7,
+    "avg_latency": 10.10623323807412,
+    "p95_latency": 14.761549890999959,
+    "error_rate": 0.0,
+    "total_requests": 81,
+    "success_count": 81
+  },
+  {
+    "concurrency": 36,
+    "throughput": 2.4,
+    "avg_latency": 12.645233239444401,
+    "p95_latency": 18.223985782000454,
+    "error_rate": 0.0,
+    "total_requests": 72,
+    "success_count": 72
+  },
+  {
+    "concurrency": 41,
+    "throughput": 2.3333333333333335,
+    "avg_latency": 14.417711684214243,
+    "p95_latency": 21.117944657999033,
+    "error_rate": 0.0,
+    "total_requests": 70,
+    "success_count": 70
+  },
+  {
+    "concurrency": 46,
+    "throughput": 2.1,
+    "avg_latency": 17.3373703825398,
+    "p95_latency": 25.09331893200033,
+    "error_rate": 0.0,
+    "total_requests": 63,
+    "success_count": 63
+  },
+  {
+    "concurrency": 51,
+    "throughput": 1.9333333333333333,
+    "avg_latency": 19.733331540396584,
+    "p95_latency": 27.68423722999978,
+    "error_rate": 0.0,
+    "total_requests": 58,
+    "success_count": 58
+  }
+]
