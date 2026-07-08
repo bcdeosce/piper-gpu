@@ -6,10 +6,6 @@ ENV DEBIAN_FRONTEND=noninteractive
 # LD_LIBRARY_PATH: primeiro as bibliotecas do pip (nvidia-*), depois o sistema
 ENV LD_LIBRARY_PATH="/app/lib/python3.10/site-packages/nvidia/cublas/lib:/app/lib/python3.10/site-packages/nvidia/cuda_runtime/lib:/app/lib/python3.10/site-packages/nvidia/cudnn/lib:/usr/local/cuda-12.8/lib64:/usr/lib/x86_64-linux-gnu:${LD_LIBRARY_PATH}"
 
-ENV MAX_GPU_JOBS=6
-ENV GPU_WORKERS=6
-ENV MIX_WORKERS=20
-
 RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     ffmpeg \
